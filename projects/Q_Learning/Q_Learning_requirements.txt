@@ -1,0 +1,6 @@
+numpy==1.21.6
+gym==0.21.0
+torch==1.11.0
+matplotlib==3.5.2
+tqdm==4.64.0
+kaggle-environments==1.8.1
